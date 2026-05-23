@@ -3,8 +3,6 @@
 The scripts in the folder allow you to train a MNIST model using the PATE differential privacy framework. 
 While running this example would give you a working implementation of PATE, an accurate analysis of DP guarantees is still a work in progress.
 
-*[Sorry, I wasn't a very good coder when I wrote this. But, not maintaining this anymore]*
-
 ## Requirements:
 
 * PyTorch
@@ -12,7 +10,7 @@ While running this example would give you a working implementation of PATE, an a
 
 ```bash
 $ python Main.py
-
+```
 Scripts present:
 data: Consists of functions for loading datasets.
 
