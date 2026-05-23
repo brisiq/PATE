@@ -26,4 +26,4 @@ util: Helper functions.
 
 This training loop is then executed for the student model to effectively learn from the aggregated teacher predictions.  
 
-Inspiration & Acknowledgement: Please note that the design and implementation of this repository were inspired by [kamathhrishi/PATE].
+Inspiration & Acknowledgement: Please note that the design and implementation of this repository were inspired by kamathhrishi/PATE（https://github.com/kamathhrishi/PATE）.
